@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "note": "Perfiles de juego ficticios para variedad, editables. No son una valoración deportiva de los clubes.",
+  "styles": {
+    "ofensivo": {
+      "attack": 0.9,
+      "line": 0.75,
+      "skills": 0.9,
+      "shot": "potente",
+      "winning": -0.1,
+      "losing": 0.25
+    },
+    "defensivo": {
+      "attack": 0.35,
+      "line": 0.2,
+      "skills": 0.65,
+      "shot": "despeje",
+      "winning": -0.3,
+      "losing": 0.12
+    },
+    "equilibrado": {
+      "attack": 0.6,
+      "line": 0.5,
+      "skills": 0.75,
+      "shot": "mixto",
+      "winning": -0.12,
+      "losing": 0.15
+    },
+    "fisico": {
+      "attack": 0.65,
+      "line": 0.55,
+      "skills": 0.8,
+      "shot": "cabeza",
+      "winning": -0.1,
+      "losing": 0.2
+    },
+    "tecnico": {
+      "attack": 0.65,
+      "line": 0.55,
+      "skills": 0.85,
+      "shot": "rasante",
+      "winning": -0.12,
+      "losing": 0.18
+    },
+    "contraatacante": {
+      "attack": 0.55,
+      "line": 0.3,
+      "skills": 0.75,
+      "shot": "rapido",
+      "winning": -0.2,
+      "losing": 0.2
+    }
+  },
+  "teams": {
+    "nacional": "ofensivo",
+    "millonarios": "tecnico",
+    "america": "ofensivo",
+    "cali": "equilibrado",
+    "junior": "ofensivo",
+    "santafe": "defensivo",
+    "medellin": "ofensivo",
+    "tolima": "contraatacante",
+    "bucaramanga": "contraatacante",
+    "once": "equilibrado",
+    "pereira": "ofensivo",
+    "pasto": "defensivo",
+    "aguilas": "contraatacante",
+    "alianza": "equilibrado",
+    "chico": "defensivo",
+    "fortaleza": "tecnico",
+    "llaneros": "fisico",
+    "interbogota": "tecnico",
+    "cucuta": "fisico",
+    "jaguares": "defensivo",
+    "boca": "fisico",
+    "river": "ofensivo",
+    "racing": "tecnico",
+    "independiente": "ofensivo",
+    "sanlorenzo": "fisico",
+    "estudiantes": "contraatacante",
+    "flamengo": "ofensivo",
+    "fluminense": "tecnico",
+    "palmeiras": "equilibrado",
+    "santos": "tecnico",
+    "penarol": "fisico",
+    "nacionaluy": "equilibrado"
+  }
+}
